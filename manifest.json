@@ -1,0 +1,14 @@
+{
+  "id": ".",
+  "name": "Auralo — Music, beyond the ordinary.",
+  "short_name": "Auralo",
+  "description": "Your music, your universe.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#100F18",
+  "theme_color": "#100F18",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
